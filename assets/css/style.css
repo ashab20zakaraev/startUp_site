@@ -1190,6 +1190,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #ddd;
     border-radius: 50%;
     border: none;
+    cursor: pointer;
 }
 
 #partner__inner .slick-dots li button:focus {
